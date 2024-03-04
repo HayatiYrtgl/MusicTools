@@ -1,3 +1,5 @@
+Certainly! Below is a basic README file for your Python script:
+
 ---
 
 # MusicTools
@@ -78,3 +80,5 @@ print("Vocal and beat files extracted successfully.")
 For a complete example of using the `MusicTools` class, refer to the provided script `example_usage.py`.
 
 ---
+
+Feel free to customize the README according to your needs, and if you have additional features or considerations, you can include them in the documentation.
