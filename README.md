@@ -1,4 +1,3 @@
-Certainly! Below is a basic README file for your Python script:
 
 ---
 
